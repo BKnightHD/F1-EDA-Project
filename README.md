@@ -41,7 +41,22 @@ Analyze an F1 dataset using Python to explore patterns, trends, and stories with
 
 ## Data Notes
 
-> ⚠️ *To be added.*
+### About the Dataset
+
+#### Context
+Formula One (also Formula 1 or F1, officially the FIA Formula One World Championship) is the highest class of single-seat auto racing, sanctioned by the Fédération Internationale de l'Automobile (FIA). It has been one of the premier forms of racing around the world since its inaugural season in 1950.
+
+#### Content
+The dataset spans from **1950 through the 2025 season** and consists of multiple tables covering:
+- Constructors
+- Race drivers
+- Lap times
+- Pit stops
+- ...and more
+
+#### Acknowledgements
+- Data through **2024** sourced from [Ergast MRD API](http://ergast.com/mrd/), gathered and published to the public domain by **Chris Newell**.
+- From **2025 onward**, data is refreshed after each Grand Prix weekend using the Ergast-compatible API provided by [api.jolpi.ca](https://api.jolpi.ca).
 
 ---
 
