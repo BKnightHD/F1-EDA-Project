@@ -58,6 +58,7 @@ The dataset spans from **1950 through the 2025 season** and consists of multiple
 - Data through **2024** sourced from [Ergast MRD API](http://ergast.com/mrd/), gathered and published to the public domain by **Chris Newell**.
 - From **2025 onward**, data is refreshed after each Grand Prix weekend using the Ergast-compatible API provided by [api.jolpi.ca](https://api.jolpi.ca).
 
+- Dataset downloaded from kaggle repo [here](https://www.kaggle.com/datasets/jtrotman/formula-1-race-data/data)
 ---
 
 ## Tools & Technologies
